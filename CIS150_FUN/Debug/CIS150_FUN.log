@@ -1,0 +1,6 @@
+﻿  CIS150_FUN.cpp
+c:\users\zmoore\desktop\cis150_fun\cis150_fun\cis150_fun.cpp(92): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zmoore\desktop\cis150_fun\cis150_fun\cis150_fun.cpp(92): warning C4305: 'initializing': truncation from 'int' to 'char'
+c:\users\zmoore\desktop\cis150_fun\cis150_fun\cis150_fun.cpp(92): warning C4309: 'initializing': truncation of constant value
+  CIS150_FUN.vcxproj -> C:\Users\zmoore\Desktop\CIS150_FUN\Debug\CIS150_FUN.exe
+  CIS150_FUN.vcxproj -> C:\Users\zmoore\Desktop\CIS150_FUN\Debug\CIS150_FUN.pdb (Full PDB)
